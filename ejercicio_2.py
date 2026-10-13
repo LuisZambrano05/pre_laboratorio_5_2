@@ -53,6 +53,11 @@ existencias = [8, 0, 4]
 
 while True:
     # TODO D1: mostrar el menú de opciones.
+    print("\n--- Menú de Gestión de Inventario ---")
+    print("1. Mostrar inventario")
+    print("2. Retirar unidades")
+    print("3. Reponer unidades")
+    print("4. Salir")
 
     opcion = input("Elige una opción: ")
 
